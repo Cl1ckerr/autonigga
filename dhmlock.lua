@@ -19,6 +19,12 @@ Description = "Loading..";
 Title = "Lock UwU";
 Duration = 2;
 });
+wait(2)
+Notify({
+Description = "Loaded! Enjoy Locking c:";
+Title = "Lock UwU";
+Duration = 2;
+});
 local CurrentCamera = game:GetService("Workspace").CurrentCamera
 local Inset = game:GetService("GuiService"):GetGuiInset().Y
 local RunService = game:GetService("RunService")
