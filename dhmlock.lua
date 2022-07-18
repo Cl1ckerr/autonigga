@@ -10,7 +10,7 @@ AimLock = {
 Settings = {
     Thickness = 3.5,
     Transparency = 1,
-    Color = Color3.fromRGB(106, 13, 173),
+    Color = Color3.fromRGB(205,92,92),
     FOV = true
 }
 }
